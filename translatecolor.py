@@ -1,8 +1,9 @@
 #! /usr/bin/env python
 
-""" Convert values between RGB hex codes and xterm-256 color codes.
+"""
+Convert values between RGB hex codes and xterm-256 color codes.
 
-Nice long listing of all 256 colors and their codes. Useful for
+Provides listing of all 256 colors and their codes. Useful for
 developing console color themes, or even script output schemes.
 
 Resources:
